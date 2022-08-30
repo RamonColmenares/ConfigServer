@@ -24,5 +24,5 @@ management:
 info:
   app:
     name: gateway-service
-    description: Gateway Service created for Parcial
+    description: Gateway Service created for Test
     version: 1.0.0

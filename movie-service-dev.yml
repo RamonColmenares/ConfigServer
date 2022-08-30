@@ -18,5 +18,5 @@ spring:
 info:
   app:
     name: movie-service
-    description: Movie Service created for Parcial
+    description: Movie Service created for Test
     version: 1.0.0
